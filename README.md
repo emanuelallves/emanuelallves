@@ -15,7 +15,7 @@ Hi there! I'm João Emanuel, a 19-year-old Computer Science student at the Feder
 
 Feel free to contact me:
 
-- [LinkedIn](www.linkedin.com/in/joão-emanuel-7bb2981a4/) 
+- [LinkedIn](https://www.linkedin.com/in/joão-emanuel-7bb2981a4/) 
 - [GitHub](https://github.com/SevlaJao)
 - [Email](mailto:joemanuelalves1@gmail.com)
 
