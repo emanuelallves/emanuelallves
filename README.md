@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hello!
 
-<!--
-**emanuelallves/emanuelallves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm João Emanuel, a 19-year-old Computer Science student at the Federal Institute of Ceará (IFCE). I'm deeply passionate about mathematics and technology, which led me to the field of data science. 
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Name**: João Emanuel
+- **Age**: 19
+- **Institution**: Federal Institute of Ceará (IFCE)
+- **Field**: Data Science
+- **Passion**: Mathematics and Technology
+- **Skills**: Statistics, SQL, Machine Learning, Python
+
+## Contact Me
+
+Feel free to reach out to me through the following platforms:
+
+- [LinkedIn](www.linkedin.com/in/joão-emanuel-7bb2981a4) 
+- [GitHub](https://github.com/SevlaJao)
+- [Email](mailto:joemanuelalves1@gmail.com)
+
+I'm always open to discussing data science, projects, and opportunities!
