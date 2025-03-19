@@ -7,9 +7,9 @@ Hi there! I'm João Emanuel, a 19-year-old Computer Science student at the Feder
 - **Name**: João Emanuel
 - **Age**: 19
 - **Institution**: Federal Institute of Ceará (IFCE)
-- **Field**: Data Science
-- **Passion**: Mathematics and Technology
-- **Skills**: Statistics, SQL, Machine Learning, Python, Neural Network, NLP, Power BI
+- **Field**: Data science
+- **Passion**: Mathematics and technology
+- **Skills**: Statistics, SQL, machine learning, python, neural network, NLP, computer vision
 
 ## Contact Me
 
