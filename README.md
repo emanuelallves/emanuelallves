@@ -1,11 +1,11 @@
 # Hello!
 
-Hi there! I'm João Emanuel, a 19-year-old Computer Science student at the Federal Institute of Ceará (IFCE). I'm deeply passionate about mathematics and technology, which led me to the field of data science. 
+Hi there! I'm João Emanuel, a 20-year-old Computer Science student at the Federal Institute of Ceará (IFCE). I'm deeply passionate about mathematics and technology, which led me to the field of data science. 
 
 ## About Me
 
 - **Name**: João Emanuel
-- **Age**: 19
+- **Age**: 20
 - **Institution**: Federal Institute of Ceará (IFCE)
 - **Field**: Data science
 - **Passion**: Mathematics and technology
